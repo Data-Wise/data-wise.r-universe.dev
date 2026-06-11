@@ -1,0 +1,30 @@
+[
+  {
+    "package": "mediationverse",
+    "url": "https://github.com/Data-Wise/mediationverse"
+  },
+  {
+    "package": "medfit",
+    "url": "https://github.com/Data-Wise/medfit"
+  },
+  {
+    "package": "medsim",
+    "url": "https://github.com/Data-Wise/medsim"
+  },
+  {
+    "package": "medrobust",
+    "url": "https://github.com/Data-Wise/medrobust"
+  },
+  {
+    "package": "probmed",
+    "url": "https://github.com/Data-Wise/probmed"
+  },
+  {
+    "package": "missingmed",
+    "url": "https://github.com/Data-Wise/missingmed"
+  },
+  {
+    "package": "rmediation",
+    "url": "https://github.com/Data-Wise/rmediation"
+  }
+]
