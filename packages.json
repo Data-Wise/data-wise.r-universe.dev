@@ -1,7 +1,8 @@
 [
   {
     "package": "mediationverse",
-    "url": "https://github.com/Data-Wise/mediationverse"
+    "url": "https://github.com/Data-Wise/mediationverse",
+    "branch": "dev"
   },
   {
     "package": "medfit",
@@ -9,7 +10,8 @@
   },
   {
     "package": "medsim",
-    "url": "https://github.com/Data-Wise/medsim"
+    "url": "https://github.com/Data-Wise/medsim",
+    "branch": "dev"
   },
   {
     "package": "medrobust",
@@ -18,7 +20,8 @@
   },
   {
     "package": "probmed",
-    "url": "https://github.com/Data-Wise/probmed"
+    "url": "https://github.com/Data-Wise/probmed",
+    "branch": "dev"
   },
   {
     "package": "missingmed",
@@ -27,6 +30,7 @@
   },
   {
     "package": "RMediation",
-    "url": "https://github.com/Data-Wise/rmediation"
+    "url": "https://github.com/Data-Wise/rmediation",
+    "branch": "dev"
   }
 ]
