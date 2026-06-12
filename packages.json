@@ -13,7 +13,8 @@
   },
   {
     "package": "medrobust",
-    "url": "https://github.com/Data-Wise/medrobust"
+    "url": "https://github.com/Data-Wise/medrobust",
+    "branch": "dev"
   },
   {
     "package": "probmed",
@@ -21,7 +22,8 @@
   },
   {
     "package": "missingmed",
-    "url": "https://github.com/Data-Wise/missingmed"
+    "url": "https://github.com/Data-Wise/missingmed",
+    "branch": "dev"
   },
   {
     "package": "RMediation",
